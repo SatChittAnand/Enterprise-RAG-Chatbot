@@ -1,0 +1,5 @@
+{
+  "name": "Enterprise RAG Chatbot",
+  "description": "A context-aware chatbot using client-side RAG to answer questions strictly based on uploaded PDFs, Word docs, and text files. Features source citation, embedding-based retrieval, and audit logging.",
+  "requestFramePermissions": []
+}
